@@ -28,7 +28,7 @@
     box-sizing: border-box;
   }
   body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #E5E5E5;
